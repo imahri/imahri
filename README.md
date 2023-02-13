@@ -1,1 +1,1 @@
-[![imahri's 42 stats](https://badge.mediaplus.ma/black/imahri)](https://github.com/oakoudad/badge42)
+[![imahri's 42 stats](https://badge.mediaplus.ma/colorfulwaves/imahri)](https://github.com/oakoudad/badge42)
